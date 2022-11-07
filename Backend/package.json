@@ -8,7 +8,7 @@
     "start": "node src/app.js"
   },
   "author": "Mahdi",
-  "license": "ISC",
+  "license": "",
   
   "dependencies": {
     "@hapi/joi": "^17.1.1",
