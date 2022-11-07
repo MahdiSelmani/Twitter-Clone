@@ -1,5 +1,5 @@
 {
-  "name": "twitter-clone-backend",
+  "name": "backend",
   "version": "1.0.0",
   "description": "",
   "main": "src/app.js",
@@ -7,16 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node src/app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/RisingGeek/twitter-clone-backend.git"
-  },
   "author": "Bhavay Puri",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/RisingGeek/twitter-clone-backend/issues"
-  },
-  "homepage": "https://github.com/RisingGeek/twitter-clone-backend#readme",
+  
   "dependencies": {
     "@hapi/joi": "^17.1.1",
     "bcrypt": "^5.0.0",
